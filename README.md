@@ -1,6 +1,6 @@
 cherenkov
 =========
--trial7
+- trial7
 
 The animation of cherenkov radiation using ROOT
 
